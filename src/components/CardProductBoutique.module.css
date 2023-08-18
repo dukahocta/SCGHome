@@ -1,0 +1,132 @@
+.div,
+.handbag01S {
+  position: absolute;
+  font-weight: 300;
+}
+.handbag01S {
+  top: calc(50% + 17.5px);
+  left: 1px;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  display: inline-block;
+  width: 146px;
+  height: 46px;
+}
+.div {
+  top: 0;
+  left: 32px;
+  line-height: 28px;
+}
+.compare,
+.rectangle {
+  position: absolute;
+  left: 0;
+}
+.rectangle {
+  top: 3px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+}
+.compare {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+.comparenormal,
+.productctanormalIcon {
+  position: absolute;
+  height: 42.42%;
+  width: 69.44%;
+  top: 57.58%;
+  right: 30.56%;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.productctanormalIcon {
+  height: 48.48%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 51.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.comparenormaldisplayed {
+  position: absolute;
+  height: 18.49%;
+  width: 87.27%;
+  top: 91.04%;
+  right: 12.73%;
+  bottom: -9.52%;
+  left: 0;
+}
+.scgBoutique1 {
+  margin: 0;
+}
+.scgBoutique {
+  position: absolute;
+  top: calc(50% - 8.5px);
+  left: 1px;
+  line-height: 28px;
+  font-weight: 300;
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+.oIcon {
+  position: absolute;
+  height: 57.14%;
+  width: 124.24%;
+  top: -5.04%;
+  right: -12.12%;
+  bottom: 47.9%;
+  left: -12.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div1,
+.div2 {
+  position: absolute;
+  top: calc(50% - 24.5px);
+  left: -1px;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 118px;
+}
+.div2 {
+  top: calc(50% - 22.5px);
+  left: 94px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  color: var(--color-darkslategray-100);
+  width: 56px;
+}
+.pricenormal {
+  position: absolute;
+  top: calc(50% + 86.5px);
+  left: 2px;
+  width: 146px;
+  height: 37px;
+  font-size: var(--font-size-xl);
+  color: var(--color-style-primary-2);
+  font-family: var(--font-prompt);
+}
+.cardproductBoutique {
+  position: relative;
+  width: 165px;
+  height: 357px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-sarabun);
+}

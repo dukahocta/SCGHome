@@ -1,0 +1,20 @@
+.div,
+.div1 {
+  position: absolute;
+  top: calc(50% - 13px);
+  right: 27px;
+  line-height: 28px;
+  font-weight: 300;
+}
+.div1 {
+  right: 9px;
+}
+.seeallnormal {
+  position: relative;
+  width: 96px;
+  height: 26px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-prompt);
+}

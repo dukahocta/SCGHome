@@ -1,0 +1,56 @@
+.logOutIcon {
+  position: absolute;
+  height: 40%;
+  width: 11.26%;
+  top: 35.38%;
+  right: 96.97%;
+  bottom: 24.62%;
+  left: -8.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0;
+  mix-blend-mode: normal;
+}
+.rectangle {
+  position: absolute;
+  height: 78.46%;
+  width: 90.91%;
+  top: 13.85%;
+  right: 3.9%;
+  bottom: 7.69%;
+  left: 5.19%;
+  border-radius: var(--br-8xs);
+}
+.div,
+.div1 {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: 8.23%;
+  line-height: 28px;
+  font-weight: 500;
+}
+.div1 {
+  left: 51.52%;
+}
+.loginSignupCopy2Child {
+  position: absolute;
+  height: 63.08%;
+  width: 0.43%;
+  top: 24.62%;
+  right: 53.68%;
+  bottom: 12.31%;
+  left: 45.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.loginSignupCopy2 {
+  position: relative;
+  width: 231px;
+  height: 65px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-style-primary-2);
+  font-family: var(--font-prompt);
+}

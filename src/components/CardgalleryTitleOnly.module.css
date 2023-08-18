@@ -1,0 +1,72 @@
+.coverPhoto01Icon {
+  position: absolute;
+  height: 113.65%;
+  width: 114.55%;
+  top: -6.14%;
+  right: -7.27%;
+  bottom: -7.51%;
+  left: -7.27%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.fill1Icon {
+  position: relative;
+  width: 23.68px;
+  height: 15.78px;
+}
+.k,
+.view {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: 32px;
+  font-weight: 300;
+}
+.view {
+  left: 86px;
+}
+.fill1Parent {
+  position: absolute;
+  height: 8.87%;
+  width: 45.09%;
+  top: 118.43%;
+  right: 49.45%;
+  bottom: -27.3%;
+  left: 5.45%;
+  overflow: hidden;
+  opacity: 0;
+  mix-blend-mode: normal;
+}
+.p {
+  margin: 0;
+}
+.div {
+  position: absolute;
+  width: 90.55%;
+  top: calc(50% + 67.5px);
+  left: 5.09%;
+  font-size: var(--font-size-lg);
+  line-height: 28px;
+  font-weight: 500;
+  font-family: var(--font-prompt);
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  height: 60px;
+}
+.fill146Icon {
+  position: relative;
+  width: 20px;
+  height: 18px;
+  opacity: 0;
+  mix-blend-mode: normal;
+}
+.cardgalleryTitleOnly {
+  position: relative;
+  width: 275px;
+  height: 293px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sarabun);
+}

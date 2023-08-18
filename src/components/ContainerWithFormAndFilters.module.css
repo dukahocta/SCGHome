@@ -1,0 +1,53 @@
+.coverPhoto01,
+.groupChild {
+  left: 0;
+  background-color: var(--color-shadow-none);
+}
+.groupChild {
+  position: absolute;
+  top: 160px;
+  border-radius: 0 0 var(--br-8xs) var(--br-8xs);
+  width: 160px;
+  height: 40px;
+}
+.coverPhoto01 {
+  height: 80%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 20%;
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+}
+.coverPhoto01,
+.div,
+.groupItem {
+  position: absolute;
+}
+.div {
+  width: 56.25%;
+  top: calc(50% + 65px);
+  left: 21.88%;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  height: 24px;
+}
+.groupItem {
+  top: -2px;
+  left: -4px;
+  border-radius: var(--br-8xs);
+  width: 168px;
+  height: 168px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 1929px;
+  left: 785px;
+  width: 160px;
+  height: 200px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-style-primary-2);
+  font-family: var(--font-prompt);
+}

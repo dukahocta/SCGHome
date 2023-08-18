@@ -1,0 +1,11 @@
+.shopByBrand {
+  margin: 0;
+}
+.homePage {
+  position: relative;
+  font-size: 300px;
+  line-height: 350px;
+  font-family: var(--font-prompt);
+  color: #575757;
+  text-align: left;
+}

@@ -1,0 +1,51 @@
+.div,
+.div1 {
+  position: absolute;
+  top: calc(50% - 13px);
+  right: 17px;
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+.div1 {
+  right: 25px;
+  text-align: right;
+}
+.seeallnormal {
+  position: absolute;
+  top: calc(50% - 17px);
+  right: 24px;
+  width: 96px;
+  height: 26px;
+  display: none;
+}
+.div2 {
+  position: absolute;
+  top: calc(50% - 24px);
+  left: 0;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  font-weight: 500;
+  font-family: var(--font-prompt);
+  color: var(--color-darkslategray-100);
+}
+.path2Copy {
+  position: absolute;
+  height: 10.42%;
+  width: 12.49%;
+  top: 92.71%;
+  right: 87.42%;
+  bottom: -3.12%;
+  left: 0.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sectionlistnormalnoSeeMore {
+  position: relative;
+  width: 1153px;
+  height: 48px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-helvetica);
+}

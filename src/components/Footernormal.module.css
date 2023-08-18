@@ -1,0 +1,463 @@
+.rectangle {
+  position: absolute;
+  height: 28.53%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 71.47%;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+}
+.contactscgcom,
+.groupChild {
+  position: absolute;
+  opacity: 0.8;
+  mix-blend-mode: normal;
+}
+.contactscgcom {
+  width: 15.76%;
+  top: calc(50% - 131px);
+  left: 12.43%;
+  line-height: 28px;
+  font-weight: 300;
+  color: var(--color-shadow-none);
+  display: inline-block;
+}
+.groupChild {
+  height: 75%;
+  width: 75%;
+  top: 12.5%;
+  right: 12.5%;
+  bottom: 12.5%;
+  left: 12.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleCopy72 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.groupParent,
+.icEmailCopyIcon,
+.icEmailIcon {
+  position: absolute;
+  height: 6.78%;
+  width: 1.67%;
+  top: 13.28%;
+  right: 47.64%;
+  bottom: 79.94%;
+  left: 50.69%;
+}
+.icEmailCopyIcon,
+.icEmailIcon {
+  top: 13.84%;
+  right: 88.13%;
+  bottom: 79.38%;
+  left: 10.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.8;
+  mix-blend-mode: normal;
+}
+.icEmailCopyIcon {
+  top: 13.56%;
+  right: 73.68%;
+  bottom: 79.66%;
+  left: 24.65%;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.scgHome {
+  position: absolute;
+  left: 10.21%;
+  line-height: 28px;
+  display: inline-block;
+}
+.div {
+  width: 16.67%;
+  top: calc(50% - 30px);
+  font-weight: 300;
+}
+.div1,
+.div2,
+.div3,
+.scgHome {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.div1 {
+  width: 19.03%;
+  top: calc(50% - 160px);
+  color: var(--color-shadow-none);
+}
+.div2,
+.div3,
+.scgHome {
+  width: 8.54%;
+  top: calc(50% - 58px);
+}
+.div2,
+.div3 {
+  width: 13.75%;
+  left: 29.44%;
+}
+.div3 {
+  left: 50.21%;
+}
+.div4,
+.div5,
+.scgHomeCopy,
+.scghome,
+.scghome1,
+.scghomeofficial {
+  position: absolute;
+  line-height: 28px;
+  color: var(--color-shadow-none);
+  display: inline-block;
+}
+.div4 {
+  width: 19.03%;
+  top: calc(50% - 160px);
+  left: 50.9%;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.div5,
+.scgHomeCopy,
+.scghome,
+.scghome1,
+.scghomeofficial {
+  width: 11.04%;
+  top: calc(50% - 132px);
+  left: 52.92%;
+  font-weight: 300;
+  opacity: 0.8;
+  mix-blend-mode: normal;
+}
+.div5,
+.scgHomeCopy,
+.scghome,
+.scghome1 {
+  width: 6.88%;
+  top: calc(50% - 131px);
+  left: 68.19%;
+}
+.div5,
+.scghome,
+.scghome1 {
+  left: 79.31%;
+}
+.div5,
+.scghome1 {
+  width: 8.89%;
+  left: 40.42%;
+}
+.div5 {
+  width: 10.35%;
+  left: 26.88%;
+}
+.dpRegistered03Icon,
+.youtubeIcon {
+  position: absolute;
+  height: 6.78%;
+  width: 1.67%;
+  top: 12.99%;
+  right: 32.36%;
+  bottom: 80.23%;
+  left: 65.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dpRegistered03Icon {
+  height: 6.21%;
+  width: 1.6%;
+  top: 13.56%;
+  right: 60.21%;
+  left: 38.19%;
+  object-fit: cover;
+}
+.div6,
+.div7,
+.scgHome2019 {
+  position: absolute;
+  width: 19.03%;
+  top: calc(50% - 58px);
+  left: 70.97%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.div7,
+.scgHome2019 {
+  top: calc(50% + 18px);
+}
+.scgHome2019 {
+  width: 11.67%;
+  top: calc(50% + 144px);
+  left: 10.21%;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+}
+.dpRegisteredIcon {
+  height: 13.56%;
+  width: 6.94%;
+  top: 65.54%;
+  right: 22.08%;
+  bottom: 20.9%;
+  left: 70.97%;
+}
+.blackInstagramIcon,
+.dpRegisteredIcon,
+.kerryexBanIcon,
+.scgIcon,
+.thaipostIcon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.blackInstagramIcon {
+  height: 6.78%;
+  width: 1.67%;
+  top: 13.84%;
+  right: 21.25%;
+  bottom: 79.38%;
+  left: 77.08%;
+  opacity: 0.8;
+  mix-blend-mode: normal;
+}
+.kerryexBanIcon,
+.scgIcon,
+.thaipostIcon {
+  height: 8.19%;
+  width: 6.94%;
+  top: 59.89%;
+  right: 54.58%;
+  bottom: 31.92%;
+  left: 38.47%;
+}
+.scgIcon,
+.thaipostIcon {
+  height: 13.28%;
+  width: 5.56%;
+  top: 54.52%;
+  right: 64.58%;
+  bottom: 32.2%;
+  left: 29.86%;
+}
+.scgIcon {
+  height: 6.5%;
+  width: 8.33%;
+  top: 44.07%;
+  right: 61.74%;
+  bottom: 49.44%;
+  left: 29.93%;
+}
+.bualuangIcon,
+.jcbIcon,
+.kbankIcon,
+.krungsriIcon,
+.krungthaiIcon,
+.mastercardIcon,
+.scbIcon,
+.thanachartIcon,
+.tmbIcon,
+.uobIcon {
+  position: absolute;
+  height: 8.47%;
+  width: 2.08%;
+  top: 55.08%;
+  right: 47.71%;
+  bottom: 36.44%;
+  left: 50.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bualuangIcon,
+.jcbIcon,
+.kbankIcon,
+.krungsriIcon,
+.krungthaiIcon,
+.mastercardIcon,
+.scbIcon,
+.tmbIcon,
+.uobIcon {
+  top: 44.07%;
+  right: 44.93%;
+  bottom: 47.46%;
+  left: 52.99%;
+}
+.bualuangIcon,
+.jcbIcon,
+.kbankIcon,
+.krungsriIcon,
+.krungthaiIcon,
+.mastercardIcon,
+.tmbIcon,
+.uobIcon {
+  right: 47.71%;
+  left: 50.21%;
+}
+.bualuangIcon,
+.jcbIcon,
+.krungsriIcon,
+.krungthaiIcon,
+.mastercardIcon,
+.tmbIcon,
+.uobIcon {
+  right: 39.38%;
+  left: 58.54%;
+}
+.bualuangIcon,
+.jcbIcon,
+.krungthaiIcon,
+.mastercardIcon,
+.tmbIcon,
+.uobIcon {
+  right: 42.15%;
+  left: 55.76%;
+}
+.bualuangIcon,
+.jcbIcon,
+.mastercardIcon,
+.tmbIcon,
+.uobIcon {
+  top: 55.08%;
+  right: 44.93%;
+  bottom: 36.44%;
+  left: 52.99%;
+}
+.bualuangIcon,
+.jcbIcon,
+.mastercardIcon,
+.uobIcon {
+  top: 44.07%;
+  right: 36.6%;
+  bottom: 47.46%;
+  left: 61.32%;
+}
+.jcbIcon,
+.mastercardIcon,
+.uobIcon {
+  top: 55.08%;
+  right: 42.15%;
+  bottom: 36.44%;
+  left: 55.76%;
+}
+.jcbIcon,
+.mastercardIcon {
+  width: 2.78%;
+  top: 65.54%;
+  right: 43.54%;
+  bottom: 25.99%;
+  left: 53.68%;
+}
+.jcbIcon {
+  height: 7.06%;
+  width: 2.22%;
+  top: 66.38%;
+  right: 40.63%;
+  bottom: 26.55%;
+  left: 57.15%;
+}
+.businessIdeaIcon,
+.jcbSecureIcon,
+.mastersecureIcon,
+.visaLogoPngTransparentIcon,
+.visaVerifiedIcon {
+  position: absolute;
+  height: 3.67%;
+  width: 2.78%;
+  top: 67.8%;
+  right: 47.01%;
+  bottom: 28.53%;
+  left: 50.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.businessIdeaIcon,
+.jcbSecureIcon,
+.mastersecureIcon,
+.visaVerifiedIcon {
+  height: 8.19%;
+  width: 3.47%;
+  top: 43.22%;
+  right: 15.56%;
+  bottom: 48.59%;
+  left: 80.97%;
+}
+.businessIdeaIcon,
+.mastersecureIcon,
+.visaVerifiedIcon {
+  width: 4.17%;
+  right: 24.86%;
+  left: 70.97%;
+}
+.businessIdeaIcon,
+.mastersecureIcon {
+  height: 5.93%;
+  top: 44.35%;
+  right: 19.86%;
+  bottom: 49.72%;
+  left: 75.97%;
+}
+.businessIdeaIcon {
+  height: 14.41%;
+  width: 3.19%;
+  top: 43.5%;
+  right: 57.01%;
+  bottom: 42.09%;
+  left: 39.79%;
+}
+.div10,
+.div11,
+.div12,
+.div8,
+.div9 {
+  position: absolute;
+  width: 16.11%;
+  top: calc(50% - 1px);
+  left: 10.21%;
+  line-height: 28px;
+  font-weight: 300;
+  display: inline-block;
+}
+.div10,
+.div11,
+.div12,
+.div9 {
+  top: calc(50% + 28px);
+}
+.div10,
+.div11,
+.div12 {
+  top: calc(50% + 57px);
+}
+.div11,
+.div12 {
+  top: calc(50% + 86px);
+}
+.div12 {
+  top: calc(50% + 115px);
+}
+.footernormal {
+  position: relative;
+  width: 1440px;
+  height: 354px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-prompt);
+}

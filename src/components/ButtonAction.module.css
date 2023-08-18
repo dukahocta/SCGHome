@@ -1,0 +1,28 @@
+.div,
+.rectangle {
+  position: absolute;
+}
+.rectangle {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-crimson-100);
+}
+.div {
+  top: calc(50% - 15px);
+  left: 30.53%;
+  font-weight: 500;
+}
+.buttonAction {
+  position: relative;
+  width: 190px;
+  height: 50px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-shadow-none);
+  font-family: var(--font-prompt);
+}

@@ -1,0 +1,43 @@
+.rectangleCopy6 {
+  position: absolute;
+  height: 102.22%;
+  width: 100.27%;
+  top: -1.11%;
+  right: -0.14%;
+  bottom: -1.11%;
+  left: -0.14%;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-shadow-none);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+.icDoneIcon {
+  position: absolute;
+  top: calc(50% - 12.5px);
+  right: 16px;
+  width: 24px;
+  height: 24px;
+}
+.div {
+  position: absolute;
+  top: 9px;
+  left: 15px;
+  line-height: 28px;
+  font-weight: 300;
+  display: inline-block;
+  width: 267px;
+  height: 36px;
+  opacity: 0.4;
+  mix-blend-mode: normal;
+}
+.fieldempty {
+  position: relative;
+  width: 369px;
+  height: 45px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-sarabun);
+}
